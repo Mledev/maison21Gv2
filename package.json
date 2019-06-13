@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://mledev.github.io/maison21G",
+  "homepage": "https://mledev.github.io/maison21G",
   "name": "mon-app",
   "version": "0.1.0",
   "private": true,
@@ -31,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
