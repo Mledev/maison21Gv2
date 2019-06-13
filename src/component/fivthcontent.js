@@ -12,14 +12,14 @@ function FivthContent(){
                 <h2>Mes 800 combinaisons</h2>
                 <img src={flacon} className="flacon" alt="flacon"/>
                 <img src={capsule} className="capsule" alt="capsule"/>
-                <Parallax x={[100, -20]} className="mandarine" tagOuter="figure">
+                <Parallax x={['100%', '0%']} className="mandarine" tagOuter="figure">
                     <img src={mandarine} alt="capsule"/>
                 </Parallax>
-                <Parallax x={[-100, -20]} className="lavande" tagOuter="figure">
+                <Parallax x={['-100%','-20%']} className="lavande" tagOuter="figure">
                     <img src={lavande} alt="capsule"/>
                 </Parallax>
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis magna eu leo consequat egestas nec non enim. Cras feugiat ut augue sit amet scelerisque. Ut dolor ante, semper vel lectus id, bibendum placerat ex. Nulla mauris erat, tempor non arcu ut, cursus viverra quam.</p>
+            <p>Nos 33 essences naturelles sont issues de l’agriculture biologique. Des essences élaborées et choisies  par nos experts qui peuvent se combiner et ainsi créer jusqu’à 800 parfums différents.</p>
             <button>EN SAVOIR PLUS</button>
         </div>
     )

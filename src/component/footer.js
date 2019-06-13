@@ -13,9 +13,9 @@ function Footer(){
                     <img src={instagram} alt="instagram"/>
                 </div>
                 <div className="link">
-                    <a href="">SHOP</a>
-                    <a href="">COMMUNITY</a>
-                    <a href="">ABOUT US</a>
+                    <a href="#">SHOP</a>
+                    <a href="#">COMMUNITY</a>
+                    <a href="#">ABOUT US</a>
                 </div>
                 <p>TERMS & CONDITIONS - 2019 ⓒ 21g. ALL Rights Reserved</p>
             </footer>
