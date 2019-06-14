@@ -6,7 +6,7 @@ function FourthContent(){
         <div className="fourth-content">
             <div className="fourth-content-text">
                 <h2>Je mixe mes fragrances</h2>
-                <video className="video-react-video" loop preload="true" autoPlay src={video}></video>
+                <video className="video-react-video" loop preload="auto" autoPlay src={video}></video>
             </div>
         </div>
     )
