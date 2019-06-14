@@ -1,5 +1,5 @@
 import React from 'react';
-import video from '../assets/video/prez.mov'
+import video from '../assets/video/prez.mp4'
 
 function FourthContent(){
     return(
