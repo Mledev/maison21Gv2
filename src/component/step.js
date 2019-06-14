@@ -19,7 +19,7 @@ function Step(){
 
                 <div className="step-block">
                     <h3>3</h3>
-                    <p>Tu découvre trois parfums à ton image</p>
+                    <p>Tu découvres trois parfums à ton image</p>
                 </div>
             </div>
 

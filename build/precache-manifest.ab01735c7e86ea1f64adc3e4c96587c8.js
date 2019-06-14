@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b930c9333e9b155f7e23e8d76d65db1",
+    "revision": "1c307bd61682ed283602b9a1dcf96da0",
     "url": "/maison21Gv2/index.html"
   },
   {
-    "revision": "5b957ae3293babe77f7b",
+    "revision": "47b1c9f7a6a080ce4225",
     "url": "/maison21Gv2/static/css/main.455cdaef.chunk.css"
   },
   {
-    "revision": "1fff8815aec27dd78029",
-    "url": "/maison21Gv2/static/js/2.a327c14f.chunk.js"
+    "revision": "bdec2223f01aa1258e51",
+    "url": "/maison21Gv2/static/js/2.550a5a91.chunk.js"
   },
   {
-    "revision": "5b957ae3293babe77f7b",
-    "url": "/maison21Gv2/static/js/main.57115d1d.chunk.js"
+    "revision": "47b1c9f7a6a080ce4225",
+    "url": "/maison21Gv2/static/js/main.fe6529e3.chunk.js"
   },
   {
     "revision": "0c811839294e8bfeb30d",
