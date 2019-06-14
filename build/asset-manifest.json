@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/maison21G/static/css/main.b309c457.chunk.css",
-    "main.js": "/maison21G/static/js/main.7a6d9a3a.chunk.js",
-    "main.js.map": "/maison21G/static/js/main.7a6d9a3a.chunk.js.map",
+    "main.js": "/maison21G/static/js/main.eb23eb96.chunk.js",
+    "main.js.map": "/maison21G/static/js/main.eb23eb96.chunk.js.map",
     "runtime~main.js": "/maison21G/static/js/runtime~main.d4acb170.js",
     "runtime~main.js.map": "/maison21G/static/js/runtime~main.d4acb170.js.map",
-    "static/js/2.910d52a6.chunk.js": "/maison21G/static/js/2.910d52a6.chunk.js",
-    "static/js/2.910d52a6.chunk.js.map": "/maison21G/static/js/2.910d52a6.chunk.js.map",
+    "static/js/2.b25555e2.chunk.js": "/maison21G/static/js/2.b25555e2.chunk.js",
+    "static/js/2.b25555e2.chunk.js.map": "/maison21G/static/js/2.b25555e2.chunk.js.map",
     "index.html": "/maison21G/index.html",
-    "precache-manifest.79669f238ce0c0822ebeaeb07a6198c8.js": "/maison21G/precache-manifest.79669f238ce0c0822ebeaeb07a6198c8.js",
+    "precache-manifest.e445f782a11733df5da57fcb1b18f4e8.js": "/maison21G/precache-manifest.e445f782a11733df5da57fcb1b18f4e8.js",
     "service-worker.js": "/maison21G/service-worker.js",
     "static/css/main.b309c457.chunk.css.map": "/maison21G/static/css/main.b309c457.chunk.css.map",
     "static/media/capsule.png": "/maison21G/static/media/capsule.099d5a64.png",
@@ -22,6 +22,7 @@
     "static/media/logo.svg": "/maison21G/static/media/logo.99ab5394.svg",
     "static/media/mandarine.png": "/maison21G/static/media/mandarine.9971eebc.png",
     "static/media/phone.png": "/maison21G/static/media/phone.7b5ccc0e.png",
+    "static/media/prez.mov": "/maison21G/static/media/prez.584e825c.mov",
     "static/media/troisparfums.png": "/maison21G/static/media/troisparfums.e761730b.png",
     "static/media/twitter.svg": "/maison21G/static/media/twitter.a8b2b2b5.svg"
   }

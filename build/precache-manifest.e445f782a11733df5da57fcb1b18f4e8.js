@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e75d89e24417bbb68ea1dfc2eff48ac5",
+    "revision": "70f78ecf442dbe1d047c3a2fc19b9c2e",
     "url": "/maison21G/index.html"
   },
   {
-    "revision": "b902237a159e98072fa4",
+    "revision": "49f6dea0f48fe749a595",
     "url": "/maison21G/static/css/main.b309c457.chunk.css"
   },
   {
-    "revision": "a756d753a45d1a63ce4f",
-    "url": "/maison21G/static/js/2.910d52a6.chunk.js"
+    "revision": "95a9d346ec5257d5c1e4",
+    "url": "/maison21G/static/js/2.b25555e2.chunk.js"
   },
   {
-    "revision": "b902237a159e98072fa4",
-    "url": "/maison21G/static/js/main.7a6d9a3a.chunk.js"
+    "revision": "49f6dea0f48fe749a595",
+    "url": "/maison21G/static/js/main.eb23eb96.chunk.js"
   },
   {
     "revision": "f5b93227d730241423cd",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7b5ccc0e86bf3a39c6d9899fe2133ad5",
     "url": "/maison21G/static/media/phone.7b5ccc0e.png"
+  },
+  {
+    "revision": "584e825c0aa174880d9cfe95f0debd23",
+    "url": "/maison21G/static/media/prez.584e825c.mov"
   },
   {
     "revision": "e761730b6d045157c0de120b2b010232",
